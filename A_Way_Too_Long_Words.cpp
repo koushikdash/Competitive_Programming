@@ -1,8 +1,8 @@
-#include<iostream.h>
+#include <iostream.h>
 using namespace std;
-int main(){
-
-
+int main()
+{
+    int a;
 
     return 0;
 }
